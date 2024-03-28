@@ -19,3 +19,5 @@ In this project, I apply Design Thinking to identify the path that the project w
 • Step 5: Review
 
 Ultimately, I based on the dashboard to draw insights and give suggestions to improve weaknesses and promote the business's strengths.
+
+![Mindmap powerbi](https://github.com/HuyPhuc-Justin/Business-Analysis-Project-PBI/assets/165190245/e38054de-7f6f-41fb-8f94-7012c25fc879)
